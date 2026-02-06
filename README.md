@@ -33,17 +33,15 @@
 
 ---
 
-## 👨‍💻 A little about how I think
-
 ```javascript
-const gabriel = {
-  stack: ["React", "Node.js", "SQL", "JavaScript"],
-  mindset: [
-    "Clean architecture",
-    "Performance first",
-    "Real-world solutions",
-    "Code that lasts"
-  ]
-};
+
+function devLife() {
+  while (coffee > 0) {
+    if (bug) fix();
+    else build(["React", "Node.js", "SQL", "JavaScript"]);
+    coffee--;
+  }
+}
+
 
 export default gabriel;
