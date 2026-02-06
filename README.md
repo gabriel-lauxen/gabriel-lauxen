@@ -1,16 +1,14 @@
 <div align="left">
+  <img align="right" src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" width="260" />
 
 ### Hi, I'm Gabriel Lauxen, Fullstack web developer. 
 
-</div>
-<div align="top-right">
+
 <a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lauxen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</div>
 
-<div align="left">
-  <img align="right" src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" width="260" />
+
   
 ## 🛠️ Tech I use
 
