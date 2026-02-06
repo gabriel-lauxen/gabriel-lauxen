@@ -2,7 +2,7 @@
   
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpmeXgxc24xbmxvcnhmdDYzdThwMnk4cHM1aHFidXM5M3BtY2Z2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZYTPlcuEkntzqdPOCI/giphy.gif" width="250" />
 
-### Hi, I'm Gabriel Lauxen, Fullstack web developer. 
+# Hi, I'm Gabriel Lauxen, Fullstack web developer. 
 
 ### Crafting pixels and endpoints
 
