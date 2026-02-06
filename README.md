@@ -48,6 +48,6 @@ export default gabriel;
 ```
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlmcmVocDNrMWl1YjBoOWhqaGFnaWM1bTdrN2wwNHl6NXVxbHN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPlmexh8SLjO9OwPxP/giphy.gif" width="70" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhsajNmbnF5dGNnaTN1dnhpa2JjM2VmaDh6dWR0NWEydWRrdXd6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FUPWHzCYD85SavzIr1/giphy.gif" width="90" />
 </div>
 
