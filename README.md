@@ -3,22 +3,13 @@
 
 ### Hi, I'm Gabriel Lauxen, Fullstack web developer.  
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lauxen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
 
-<br clear="right"/>
-
----
-
+<div align="left">
+  <img align="right" src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" width="260" />
 ## 🛠️ Tech I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
@@ -35,6 +26,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
+</div>
+
+<br clear="right"/>
 
 
 ---
