@@ -1,9 +1,8 @@
 <div align="left">
   <img align="right" src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" width="260" />
 
-**Hi, I'm Gabriel Lauxen, Fullstack web developer.**  
-**I build modern, scalable and clean web applications.**  
-**Focused on React, Node.js, JavaScript and real-world solutions.**
+### Hi, I'm Gabriel Lauxen, Fullstack web developer.  
+### I build modern, scalable and clean web applications.  
 
 <br/>
 
