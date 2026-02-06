@@ -4,6 +4,9 @@
 
 ### Hi, I'm Gabriel Lauxen, Fullstack web developer. 
 
+### Crafting pixels and endpoints
+
+### I automate things so I can be lazy
 
 <a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lauxen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
