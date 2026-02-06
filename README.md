@@ -1,5 +1,5 @@
 <div align="left">
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVvajd4OW1oY3RyaWVqamV5MnZvYWR5MnFsZjk5bGQ2MmE5Z28zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" width="420" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVvajd4OW1oY3RyaWVqamV5MnZvYWR5MnFsZjk5bGQ2MmE5Z28zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" width="250" />
 
 ### Hi, I'm Gabriel Lauxen, Fullstack web developer. 
 
@@ -48,6 +48,6 @@ export default gabriel;
 ```
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlmcmVocDNrMWl1YjBoOWhqaGFnaWM1bTdrN2wwNHl6NXVxbHN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPlmexh8SLjO9OwPxP/giphy.gif" width="420" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlmcmVocDNrMWl1YjBoOWhqaGFnaWM1bTdrN2wwNHl6NXVxbHN2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPlmexh8SLjO9OwPxP/giphy.gif" width="70" />
 </div>
 
