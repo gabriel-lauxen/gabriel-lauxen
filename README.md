@@ -1,6 +1,5 @@
-<table>
-<tr>
-<td>
+<div align="left">
+  <img align="right" src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" width="260" />
 
 # 👋 Hey, I'm Gabriel Lauxen
 
@@ -9,15 +8,9 @@
 I build modern, scalable and clean web applications using **React, JavaScript and Node.js**.
 
 I care about performance, UX, code quality and real-world solutions — not just code that works, but code that lasts.
+</div>
 
-</td>
-<td align="right">
-
-<img src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" width="260" style="border-radius:12px;" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -40,26 +33,14 @@ I care about performance, UX, code quality and real-world solutions — not just
 
 ```javascript
 const gabriel = {
-  role: "Fullstack Web Developer",
-  stack: [
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Next.js",
-    "Vue.js",
-    "Ionic",
-    "MongoDB",
-    "SQL",
-    "Sequelize",
-    "Docker"
-  ],
+  stack: ["React", "Node.js", "SQL", "JavaScript"],
   mindset: [
     "Clean architecture",
-    "Real-world solutions",
     "Performance first",
+    "Real-world solutions",
     "Code that lasts"
-  ],
-  currentlyBuilding: "Scalable web apps for real people 🚀"
+  ]
 };
 
 export default gabriel;
+
