@@ -2,11 +2,12 @@
   
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpmeXgxc24xbmxvcnhmdDYzdThwMnk4cHM1aHFidXM5M3BtY2Z2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZYTPlcuEkntzqdPOCI/giphy.gif" width="250" />
 
-# Hi, I'm Gabriel Lauxen, Fullstack web developer. 
+### Hi, I'm Gabriel Lauxen, Fullstack web developer. 
+
+### I solve problems you didn’t know you had.
 
 ### Crafting pixels and endpoints
 
-### I automate things so I can be lazy
 
 <a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lauxen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
