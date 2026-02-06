@@ -33,8 +33,6 @@
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
 </div>
 
-<br clear="right"/>
-
 ```javascript
 
 function devLife() {
