@@ -1,3 +1,4 @@
+<div align="left">
 <div style="float: right;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVvajd4OW1oY3RyaWVqamV5MnZvYWR5MnFsZjk5bGQ2MmE5Z28zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" width="250" />
 </div>
