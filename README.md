@@ -35,9 +35,6 @@
 
 <br clear="right"/>
 
-
----
-
 ```javascript
 
 function devLife() {
