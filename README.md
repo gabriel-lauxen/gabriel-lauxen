@@ -66,21 +66,6 @@ const gabriel = {
 
 ---
 
-## 📊 The receipts
-
-<div align="center">
-
-![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=gabriel-lauxen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lauxen&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabriel-lauxen&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gabriel-lauxen&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 🧩 A typical day
 
 ```javascript
