@@ -1,44 +1,37 @@
 <div align="center">
 
-# Hey, I'm Gabriel Lauxen 👋
+# Gabriel Lauxen
 
-### Fullstack Developer · Bug Whisperer · Professional Googler
+### Fullstack Developer
 
-_I solve problems you didn't know you had — using solutions you won't understand._
+*Building scalable web applications across the stack — from pixel-perfect interfaces to resilient APIs.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Lauxen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lauxen-36822a231/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellauxen11@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=gabriel-lauxen&style=for-the-badge&color=0A66C2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lauxen-36822a231/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellauxen11@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=gabriel-lauxen&style=for-the-badge&color=0A66C2&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧠 About me
+## 🧠 About
 
-```ts
-const gabriel = {
-  role: "Fullstack Developer",
-  currentlyBuilding: "things that (mostly) work in production",
-  fuel: ["☕", "🎧 lo-fi", "stack overflow tabs"],
-  philosophy: "It compiled. Ship it.",
-  funFact: "I refactor code I wrote 3 days ago like an archaeologist",
-};
-```
+Most of my work lives at the intersection of complex business logic, real-time systems, and clean architecture — **multi-tenant SaaS platforms, automation pipelines, and integrations that don't break at 3am**. I care about readable code, sensible defaults, and software that's still easy to maintain six months later.
 
-- 🔭 Crafting **pixels** on the frontend and **endpoints** on the backend
-- 🌱 Currently learning whatever framework dropped this week
-- 💬 Ask me about **React, Node, or why `0.1 + 0.2 !== 0.3`**
-- ⚡ Fun fact: my code works on the first try… on the _third_ attempt
+When I'm not shipping features, I'm probably reading the source of a library I'm using, or trying to convince a teammate that the boring solution is the right one.
+
+**Currently:** exploring AI integrations and RAG pipelines, and finding new ways to break my own assumptions about how systems should be designed.
+
+> *"Make it work, make it right, make it fast — in that order."* — Kent Beck
 
 ---
 
-## 🛠️ Tech I use (and occasionally fight with)
+## 🛠️ Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
@@ -54,36 +47,42 @@ const gabriel = {
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**DevOps-ish**
+**Tooling & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🧩 A typical day
+## ☕ Coffee-driven development
 
-```javascript
-function devLife() {
-  while (coffee > 0) {
-    if (bug) {
-      blame("the intern"); // we don't have an intern
-      fix();
-    } else {
-      build(["React", "Node.js", "SQL", "JavaScript"]);
-    }
-    coffee--;
-  }
-
-  if (coffee === 0) throw new Error("☕ Critical resource depleted");
+```ts
+while (coffee) {
+  code();
+  if (bug) debug();
+  coffee--;
 }
 
-devLife(); // please don't await this
+refill(); // and repeat
 ```
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+
+*Open to interesting problems and collaborations.*
+
+**Reach out via [LinkedIn](https://www.linkedin.com/in/gabriel-lauxen-36822a231/) or [email](mailto:gabriellauxen11@gmail.com).**
+
+</div>
