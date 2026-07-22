@@ -6,26 +6,25 @@
 -->
 
 <div align="center">
-
-<a href="https://lauxen.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=0C7EA8&center=true&vCenter=true&width=620&height=60&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Gabriel Lauxen" />
-</a>
-
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/itslauxen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://lauxen.dev"><img src="https://img.shields.io/badge/lauxen.dev-0C7EA8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:gabriellauxen11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
+<table>
+<tr>
+<td width="340" align="center"><img src="assets/baby-yoda.gif" alt="Grogu drawn in ASCII" width="320" /></td>
+<td valign="middle" align="center">
+<a href="https://lauxen.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0C7EA8&center=true&vCenter=true&width=440&height=48&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Gabriel Lauxen" /></a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/itslauxen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br/>
+<a href="https://lauxen.dev"><img src="https://img.shields.io/badge/lauxen.dev-0C7EA8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:gabriellauxen11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 ## 🧠 About
-
-<!-- RETRATO ASCII: quando você me mandar uma foto de rosto BEM ILUMINADA (fundo neutro),
-     eu troco este bloco por uma tabela com o retrato em ASCII à esquerda e o texto à direita. -->
 
 Fullstack developer from **Novo Hamburgo, Brazil**, with ~4 years shipping web and mobile products end‑to‑end — from data model to pixel‑perfect UI.
 
@@ -124,14 +123,6 @@ while (coffee) {
 }
 refill(); // and repeat
 ```
-
----
-
-<div align="center">
-
-<img src="assets/baby-yoda.gif" alt="Baby Yoda drawn in ASCII" width="420" />
-
-</div>
 
 ---
 
