@@ -5,13 +5,13 @@
   Veja SETUP.md para o passo a passo.
 -->
 
-<img align="left" width="260" src="assets/baby-yoda.gif" alt="Grogu drawn in ASCII" />
+<img align="left" width="300" src="assets/baby-yoda.gif" alt="Grogu drawn in ASCII" />
 
-<a href="https://lauxen.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=0C7EA8&center=true&vCenter=true&width=540&height=140&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Gabriel Lauxen" /></a>
+<a href="https://lauxen.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0C7EA8&center=true&vCenter=true&width=500&height=160&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Gabriel Lauxen" /></a>
 
 <br clear="all"/>
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;<a href="https://github.com/itslauxen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;<a href="https://lauxen.dev"><img src="https://img.shields.io/badge/lauxen.dev-0C7EA8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> &nbsp;<a href="mailto:gabriellauxen11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
