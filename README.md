@@ -5,24 +5,17 @@
   Veja SETUP.md para o passo a passo.
 -->
 
-<div align="center">
-<table>
-<tr>
-<td width="340" align="center"><img src="assets/baby-yoda.gif" alt="Grogu drawn in ASCII" width="320" /></td>
-<td valign="middle" align="center">
-<a href="https://lauxen.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0C7EA8&center=true&vCenter=true&width=440&height=48&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Gabriel Lauxen" /></a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/itslauxen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<br/>
-<a href="https://lauxen.dev"><img src="https://img.shields.io/badge/lauxen.dev-0C7EA8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:gabriellauxen11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</td>
-</tr>
-</table>
-</div>
+<img align="left" width="260" src="assets/baby-yoda.gif" alt="Grogu drawn in ASCII" />
 
----
+<a href="https://lauxen.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=0C7EA8&center=true&vCenter=true&width=540&height=140&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Gabriel Lauxen" /></a>
+
+<br clear="all"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriel-lauxen-36822a231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;<a href="https://github.com/itslauxen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;<a href="https://lauxen.dev"><img src="https://img.shields.io/badge/lauxen.dev-0C7EA8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> &nbsp;<a href="mailto:gabriellauxen11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ## 🧠 About
 
@@ -83,26 +76,6 @@ I care about readable code, sensible defaults, and software that's still easy to
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Nova Notes](https://novanotes.lauxen.dev)** · _pre‑release_ | A PWA "second brain": Notion‑style block editor, multi‑provider AI (OpenAI/Groq/Gemini), self‑built Web Push notifications. Built solo, end‑to‑end. | React · Vite · Supabase |
-| **[Portfolio + Component Library](https://lauxen.dev)** | A curated library of parameterizable UI components — some from favorite libs, others built from scratch — with effects in CSS, WebGL, Canvas and GSAP. | React · WebGL · Canvas · GSAP |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itslauxen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=0C7EA8&icon_color=0C7EA8&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslauxen&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0C7EA8&text_color=c9d1d9" alt="top langs" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -110,6 +83,15 @@ I care about readable code, sensible defaults, and software that's still easy to
 <img src="https://raw.githubusercontent.com/itslauxen/itslauxen/output/github-snake-dark.svg" alt="snake eating my contributions" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Nova Notes](https://novanotes.lauxen.dev)** · _pre‑release_ | A PWA "second brain": Notion‑style block editor, multi‑provider AI (OpenAI/Groq/Gemini), self‑built Web Push notifications. Built solo, end‑to‑end. | React · Vite · Supabase |
+| **[Portfolio + Component Library](https://lauxen.dev)** | A curated library of parameterizable UI components — some from favorite libs, others built from scratch — with effects in CSS, WebGL, Canvas and GSAP. | React · WebGL · Canvas · GSAP |
 
 ---
 
