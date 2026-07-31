@@ -19,7 +19,7 @@
 
 ## 🧠 About
 
-Fullstack developer from **Novo Hamburgo, Brazil**, with ~4 years shipping web and mobile products end‑to‑end — from data model to pixel‑perfect UI.
+Fullstack developer from **Novo Hamburgo, Brazil**, with 3+ years shipping web and mobile products end‑to‑end — from data model to pixel‑perfect UI.
 
 Right now at **DKW System** I build a large‑scale white‑label **CRM & messaging platform** (6 repos, front to back). A few things I'm proud of:
 
